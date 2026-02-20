@@ -1,0 +1,5 @@
+# Day 05 - Rollup Technology
+
+- Base uses Optimistic Rollups
+- Transactions are executed off-chain
+- Data is posted back to Ethereum
