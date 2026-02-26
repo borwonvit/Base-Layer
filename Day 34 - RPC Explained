@@ -1,0 +1,5 @@
+# Day 34 - RPC Explained
+
+- RPC connects wallet to blockchain
+- Base has public RPC endpoints
+- Used by apps and wallets
